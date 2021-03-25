@@ -1,4 +1,5 @@
 # CollabQuest
+Where Ideas Come Together 
 
 ## Motivation 
 
