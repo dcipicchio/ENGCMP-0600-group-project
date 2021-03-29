@@ -15,6 +15,7 @@ The current features implemented are a basic account system and the ability to c
 ## Tests
 
 ## How To Use
+The user will be able to access the website in a browser. From there, they can create an account/login into their exsting account. Within their account, they will be able to browse other projects posted on the website from other users, or upload their own project giving a description of what the project consists of. It creates one world of different projects to be seen.
 
 ## Contribute 
 
