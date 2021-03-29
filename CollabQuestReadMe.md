@@ -20,10 +20,10 @@ The user will be able to access the website in a browser. From there, they can c
 ## Contribute 
 
 ## Credits 
-Daulton Cipicchio - Creator
-John Gillespie - Creator
-Emily Worster - Creator
-Praj Perez - Creator
+Daulton Cipicchio - Creator__
+John Gillespie - Creator__
+Emily Worster - Creator__
+Praj Perez - Creator__
 
 ## License 
 MIT License
