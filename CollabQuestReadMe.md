@@ -13,9 +13,6 @@ XAMPP, which includes: Apache HTTP Server, MariaDB database, and interpreters fo
 ## Features 
 The current features implemented are a basic account system and the ability to create and browse posts of different projects. 
 
-## Tests
-To test CollabQuest, we decided to let users 
-
 ## How To Use
 The user accesses the website through a browser. From there, they create an account or login to their exsting account. Within their account, users browse other projects posted on the website from other users. They can also upload their own project and provide a description of what the project consists of. CollabQuest creates an extensive digital library of different projects.
 
