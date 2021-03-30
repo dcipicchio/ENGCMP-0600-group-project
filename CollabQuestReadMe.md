@@ -10,8 +10,12 @@ The languages used are html, CSS, JS, and PHP. All of the html pages were create
 ## Tech/Framework Used 
 XAMPP, which includes: Apache HTTP Server, MariaDB database, and interpreters for the PHP and Perl programming languages, was used to initially create the web site/server locally and to test the databases. The dynamic hosting site infinityfree was then used to host the data and site. For the landing page, we used the Bootstrap framework as a starting point. We believed this template could be manipulated to represent our idea. 
 
+## Build Status
+In the site's current state, the login system is having issues redirecting to another page after a login/account creation, so it has been temporarily removed from the site.
+The ability to view projects stored in the database has been completed, but the account creation form currently does not add to the database. The form is still viewable on the page.
+
 ## Features 
-The current features implemented are a basic account system and the ability to create and browse posts of different projects. 
+The features of the site: the ability to create/view projects and add them to your dashboard/acccount. 
 
 ## How To Use
 The user accesses the website through a browser. From there, they create an account or log into their exsting account. Within their account, users can browse projects posted on the website from other users. They can also upload their own project and provide a description of what the project consists of. CollabQuest creates a space for an extensive digital library of different projects.
